@@ -1,1 +1,4 @@
+body {background-color:#b3ffb3;}
 h1 { color: #1e90ff; }
+p.sample1 {border: inset 10px #FF0000}
+p.sample2 {border: double 10px #4b0082}
